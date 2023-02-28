@@ -362,8 +362,3 @@ setTimeout(()=>{
     verCatalogo(estanteria)
 },3000)
 
-setInterval(()=>{
-    let horaActual = DateTime.now().toLocaleString(DateTime.TIME_24_WITH_SECONDS)
-    reloj.innerHTML = `${horaActual}`
-}, 1000)
-
