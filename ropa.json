@@ -1,0 +1,348 @@
+[
+
+    {
+        "id": 1,
+        "tipo": "Remera",
+        "color": "verde",
+        "talle": "S",
+        "precio": 900,
+        "imagen": "remera verde.jpg"
+    },
+    {
+        "id": 2,
+        "tipo": "Remera",
+        "color": "verde",
+        "talle": "L",
+        "precio": 900,
+        "imagen": "remera verde.jpg"
+    },
+    {
+        "id": 3,
+        "tipo": "Remera",
+        "color": "verde",
+        "talle": "XL",
+        "precio": 900,
+        "imagen": "remera verde.jpg"
+    },
+    {
+        "id": 4,
+        "tipo": "Remera",
+        "color": "rojo",
+        "talle": "S",
+        "precio": 900,
+        "imagen": "remera roja.jfif"
+    },
+    {
+        "id": 5,
+        "tipo": "Remera",
+        "color": "rojo",
+        "talle": "L",
+        "precio": 900,
+        "imagen": "remera roja.jfif"
+    },
+    {
+        "id": 6,
+        "tipo": "Remera",
+        "color": "rojo",
+        "talle": "XL",
+        "precio": 900,
+        "imagen": "remera roja.jfif"
+    },
+    {
+        "id": 7,
+        "tipo": "Remera",
+        "color": "negro",
+        "talle": "S",
+        "precio": 900,
+        "imagen": "remera negra.jpg"
+    },
+    {
+        "id": 8,
+        "tipo": "Remera",
+        "color": "negro",
+        "talle": "L",
+        "precio": 900,
+        "imagen": "remera negra.jpg"
+    },
+    {
+        "id": 9,
+        "tipo": "Remera",
+        "color": "negro",
+        "talle": "XL",
+        "precio": 900,
+        "imagen": "remera negra.jpg"
+    },
+    {
+        "id": 10,
+        "tipo": "Remera",
+        "color": "blanco",
+        "talle": "S",
+        "precio": 900,
+        "imagen": "remera blanca.jpg"
+    },
+    {
+        "id": 11,
+        "tipo": "Remera",
+        "color": "blanco",
+        "talle": "L",
+        "precio": 900,
+        "imagen": "remera blanca.jpg"
+    },
+    {
+        "id": 12,
+        "tipo": "Remera",
+        "color": "blanco",
+        "talle": "XL",
+        "precio": 900,
+        "imagen": "remera blanca.jpg"
+    },
+    {
+        "id": 13,
+        "tipo": "Remera",
+        "color": "azul",
+        "talle": "S",
+        "precio": 900,
+        "imagen": "remera azul.jfif"
+    },
+    {
+        "id": 14,
+        "tipo": "Remera",
+        "color": "azul",
+        "talle": "L",
+        "precio": 900,
+        "imagen": "remera azul.jfif"
+    },
+    {
+        "id": 15,
+        "tipo": "Remera",
+        "color": "azul",
+        "talle": "XL",
+        "precio": 900,
+        "imagen": "remera azul.jfif"
+    },
+    {
+        "id": 16,
+        "tipo": "Pantalon",
+        "color": "verde",
+        "talle": "S",
+        "precio": 900,
+        "imagen": "pantalon verde.jpg"
+    },
+    {
+        "id": 17,
+        "tipo": "Pantalon",
+        "color": "verde",
+        "talle": "L",
+        "precio": 900,
+        "imagen": "pantalon verde.jpg"
+    },
+    {
+        "id": 18,
+        "tipo": "Pantalon",
+        "color": "verde",
+        "talle": "XL",
+        "precio": 900,
+        "imagen": "pantalon verde.jpg"
+    },
+    {
+        "id": 19,
+        "tipo": "Pantalon",
+        "color": "verde",
+        "talle": "S",
+        "precio": 900,
+        "imagen": "pantalon verde no cargo.webp"
+    },
+    {
+        "id": 20,
+        "tipo": "Pantalon",
+        "color": "verde",
+        "talle": "L",
+        "precio": 900,
+        "imagen": "pantalon verde no cargo.webp"
+    },
+    {
+        "id": 21,
+        "tipo": "Pantalon",
+        "color": "verde",
+        "talle": "XL",
+        "precio": 900,
+        "imagen": "pantalon verde no cargo.webp"
+    },
+    {
+        "id": 22,
+        "tipo": "Pantalon",
+        "color": "negro",
+        "talle": "S",
+        "precio": 1500,
+        "imagen": "pantalon negro.webp"
+    },
+    {
+        "id": 23,
+        "tipo": "Pantalon",
+        "color": "negro",
+        "talle": "L",
+        "precio": 1500,
+        "imagen": "pantalon negro.webp"
+    },
+    {
+        "id": 24,
+        "tipo": "Pantalon",
+        "color": "negro",
+        "talle": "XL",
+        "precio": 1500,
+        "imagen": "pantalon negro.webp"
+    },
+    {
+        "id": 25,
+        "tipo": "Pantalon",
+        "color": "azul",
+        "talle": "S",
+        "precio": 1000,
+        "imagen": "pantalon jean.jpg"
+    },
+    {
+        "id": 26,
+        "tipo": "Pantalon",
+        "color": "azul",
+        "talle": "L",
+        "precio": 1000,
+        "imagen": "pantalon jean.jpg"
+    },
+    {
+        "id": 27,
+        "tipo": "Pantalon",
+        "color": "azul",
+        "talle": "XL",
+        "precio": 1000,
+        "imagen": "pantalon jean.jpg"
+    },
+    {
+        "id": 28,
+        "tipo": "Gorra",
+        "color": "negro",
+        "talle": "S",
+        "precio": 900,
+        "imagen": "gorra ny.jpg"
+    },
+    {
+        "id": 29,
+        "tipo": "Gorra",
+        "color": "marron",
+        "talle": "S",
+        "precio": 950,
+        "imagen": "gorra ny marron.jpg"
+    },
+    {
+        "id": 30,
+        "tipo": "Gorra",
+        "color": "azul",
+        "talle": "S",
+        "precio": 700,
+        "imagen": "gorra messi.jpg"
+    },
+    {
+        "id": 31,
+        "tipo": "Gorra",
+        "color": "marron",
+        "talle": "S",
+        "precio": 800,
+        "imagen": "gorra dubujos.webp"
+    },
+    
+    {
+        "id": 32,
+        "tipo": "Buzo",
+        "color": "verde",
+        "talle": "S",
+        "precio": 920,
+        "imagen": "buzo verde.jpg"
+    },
+    {
+        "id": 33,
+        "tipo": "Buzo",
+        "color": "verde",
+        "talle": "L",
+        "precio": 920,
+        "imagen": "buzo verde.jpg"
+    },
+    {
+        "id": 34,
+        "tipo": "Buzo",
+        "color": "verde",
+        "talle": "XL",
+        "precio": 920,
+        "imagen": "buzo verde.jpg"
+    },
+    {
+        "id": 35,
+        "tipo": "Buzo",
+        "color": "blanco",
+        "talle": "S",
+        "precio": 900,
+        "imagen": "buzo nasa.jpg"
+    },
+    {
+        "id": 36,
+        "tipo": "Buzo",
+        "color": "blanco",
+        "talle": "L",
+        "precio": 900,
+        "imagen": "buzo nasa.jpg"
+    },
+    {
+        "id": 37,
+        "tipo": "Buzo",
+        "color": "blanco",
+        "talle": "XL",
+        "precio": 900,
+        "imagen": "buzo nasa.jpg"
+    },
+    {
+        "id": 38,
+        "tipo": "Buzo",
+        "color": "blanco",
+        "talle": "S",
+        "precio": 980,
+        "imagen": "buzo blanco.jpg"
+    },
+    {
+        "id": 39,
+        "tipo": "Buzo",
+        "color": "blanco",
+        "talle": "L",
+        "precio": 980,
+        "imagen": "buzo blanco.jpg"
+    },
+    {
+        "id": 40,
+        "tipo": "Buzo",
+        "color": "blanco",
+        "talle": "XL",
+        "precio": 980,
+        "imagen": "buzo blanco.jpg"
+    },
+    {
+        "id": 41,
+        "tipo": "Buzo",
+        "color": "beige",
+        "talle": "S",
+        "precio": 950,
+        "imagen": "buzo blanco no tan blanco.jpg"
+    },
+    {
+        "id": 42,
+        "tipo": "Buzo",
+        "color": "beige",
+        "talle": "L",
+        "precio": 950,
+        "imagen": "buzo blanco no tan blanco.jpg"
+    },
+    {
+        "id": 43,
+        "tipo": "Buzo",
+        "color": "beige",
+        "talle": "XL",
+        "precio": 950,
+        "imagen": "buzo blanco no tan blanco.jpg"
+    }
+]

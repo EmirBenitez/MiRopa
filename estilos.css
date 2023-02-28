@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    border: 0;
+}
+
+.card {
+    overflow: hidden;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    border-radius: 0.25rem;
+}
+
+p {
+    margin: 0;
+    border: 0;
+}
+
+.darkMode {
+    color: rgb(255, 255, 255);
+    background-color: black;
+}
+
+.darkMode .modal {
+    color: black;
+}
+
+.darkMode .card {
+    color: black
+}
+
+.ofertaopa {
+    color: goldenrod;
+    font-weight: bold;
+}
+
+.team-member {
+    margin-bottom: 3rem;
+    text-align: center;
+}
+
+.team-member img {
+    width: 14rem;
+    height: 14rem;
+    border: 0.5rem solid rgba(0, 0, 0, 0.1);
+}
+
+.team-member h4,
+.team-member .h4 {
+    margin-top: 1.5rem;
+    margin-bottom: 0;
+}
+#team{
+    background-color: rgb(78, 78, 78);
+}
+@media (prefers-reduced-motion: reduce) {
+    .form-select {
+    transition: none;
+    }}
+    /* --------------------------- */
+    
